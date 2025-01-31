@@ -1,0 +1,34 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Chat Interface</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">AI Chat</div>
+        <div class="chat-box" id="chat-box">
+            <div class="message bot-message">Halo! Bagaimana saya bisa membantu Anda?</div>
+        </div>
+        <div class="chat-input">
+            <input type="text" id="user-input" placeholder="Ketik pesan...">
+            <button id="send-btn">Kirim</button>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('send-btn').addEventListener('click', function() {
+            let userInput = document.getElementById('user-input').value;
+            if (userInput.trim() !== "") {
+                let chatBox = document.getElementById('chat-box');
+                let userMessage = `<div class='message user-message'>${userInput}</div>`;
+                chatBox.innerHTML += userMessage;
+                document.getElementById('user-input').value = "";
+                chatBox.scrollTop = chatBox.scrollHeight;
+            }
+        });
+    </script>
+</body>
+</html>
