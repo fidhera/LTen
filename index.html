@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LTen | AI Assistant</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #1a1a1a;
+            color: white;
+            font-family: Arial, sans-serif;
+            flex-direction: column;
+        }
+
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .chat-container {
+            display: flex;
+            align-items: center;
+            background: #333;
+            padding: 10px;
+            border-radius: 10px;
+            width: 60%; /* Lebih lebar ke kiri dan kanan */
+        }
+
+        .chat-container button {
+            background: #444;
+            border: none;
+            padding: 15px;
+            margin-right: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .chat-container button i {
+            color: #ffffff;
+            font-size: 18px;
+        }
+
+        .chat-input {
+            flex: 1;
+            background: #222;
+            border: none;
+            padding: 12px;
+            border-radius: 5px;
+            color: white;
+            outline: none;
+            font-size: 16px;
+        }
+
+        .send-button {
+            background: #555;
+            margin: 10px;
+        }
+
+        /* Responsif untuk layar kecil */
+        @media (max-width: 768px) {
+            .chat-container {
+                width: 90%; /* Lebih fleksibel di layar kecil */
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>LTen | AI assistant built by paeIL</h1>
+
+    <div class="chat-container">
+        <!-- Tombol Choose File -->
+        <button><i class="fa-regular fa-file"></i></button>
+
+        <!-- Tombol New Chat -->
+        <button><i class="fa-solid fa-plus"></i></button>
+
+        <!-- Input Chat -->
+        <input type="text" class="chat-input" placeholder="Tanya sesuatu kepada LTen">
+
+        <!-- Tombol Send -->
+        <button class="send-button"><i class="fa-solid fa-paper-plane"></i></button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
