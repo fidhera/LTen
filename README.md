@@ -8,8 +8,9 @@
 *Contoh tampilan antarmuka LTen AI yang didesain dengan figma*
 
 ---
-
+<br/>
 *Logo LTen AI*
 ---
 ![image](https://github.com/user-attachments/assets/5cf3d8a4-d59c-43c4-865c-17f9f620e4e6)
-*dibuat dengan canva*
+<br/>
+*dibuat dengan figma*
