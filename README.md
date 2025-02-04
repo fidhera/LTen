@@ -17,9 +17,13 @@
    - Stabilitas & Teknologi, Arti bentuk segi enam dikaitkan dengan struktur yang stabil (seperti sarang lebah).
    - Inovasi & AI, Warna ungu melambangkan dengan kecerdasan buatan (AI), inovasi, dan kreativitas.
 
-3. Simbol Putih di Tengah
+2. Simbol Putih di Tengah
    - Huruf atau Ikon AI, Sekilas bentuknya menyerupai huruf "L", "T", "E", "N", "A", "I", "F". Di mana semua huruf itu terdapat pada 1 logo ini.
    - Kombinasi balok dan sedikit condong kekiri yang melambangkan kemajuan, kecepatan, efisiensi, dan keberanian melawan arus. Seperti pesawat yang miring saat bermanuver, logo ini bisa merepresentasikan daya juang dan ketahanan dalam persaingan.
+  
+3. Arti dan Maksud Lain.
+   - "L" yang diambil dari nama RaffaeL.
+   - "Ten" yang berarti 10, memiliki makna kesempurnaan dan kelengkapan, simbol transformasi dan awal baru, keselarasan dan kemajuan, keberhasilan dan prestasi. Dilain sisi, angka 10 adalah tanggal kelahiran saya.
 
 
 
