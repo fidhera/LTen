@@ -14,9 +14,9 @@
 
 ### Makna
 1. Hexagon (Segi Enam) Ungu
-   - Stabilitas & Teknologi: Bentuk segi enam sering dikaitkan dengan struktur yang stabil (seperti sarang lebah) dan sering digunakan dalam branding teknologi.
-   - Inovasi & AI: Warna ungu sering dikaitkan dengan kecerdasan buatan (AI), inovasi, dan kreativitas.
+   - Stabilitas & Teknologi, Arti bentuk segi enam dikaitkan dengan struktur yang stabil (seperti sarang lebah).
+   - Inovasi & AI, Warna ungu melambangkan dengan kecerdasan buatan (AI), inovasi, dan kreativitas.
 
 3. Simbol Putih di Tengah
-   - Huruf atau Ikon AI: Bentuknya menyerupai huruf "L", "T", "E", "N", "A", "I", "F". 
-   - Kombinasi balok dan sedikit condong kekiri yang bisa melambangkan kemajuan, kecepatan, efisiensi, dan keberanian melawan arus. Seperti pesawat yang miring saat bermanuver, logo ini bisa merepresentasikan daya juang dan ketahanan dalam persaingan.
+   - Huruf atau Ikon AI, Sekilas bentuknya menyerupai huruf "L", "T", "E", "N", "A", "I", "F". Di mana semua huruf itu terdapat pada 1 logo ini.
+   - Kombinasi balok dan sedikit condong kekiri yang melambangkan kemajuan, kecepatan, efisiensi, dan keberanian melawan arus. Seperti pesawat yang miring saat bermanuver, logo ini bisa merepresentasikan daya juang dan ketahanan dalam persaingan.
