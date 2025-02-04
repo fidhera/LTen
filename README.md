@@ -20,3 +20,9 @@
 3. Simbol Putih di Tengah
    - Huruf atau Ikon AI, Sekilas bentuknya menyerupai huruf "L", "T", "E", "N", "A", "I", "F". Di mana semua huruf itu terdapat pada 1 logo ini.
    - Kombinasi balok dan sedikit condong kekiri yang melambangkan kemajuan, kecepatan, efisiensi, dan keberanian melawan arus. Seperti pesawat yang miring saat bermanuver, logo ini bisa merepresentasikan daya juang dan ketahanan dalam persaingan.
+
+
+
+
+
+<!-- awokawokaowkaowk sok keren bjir -->
